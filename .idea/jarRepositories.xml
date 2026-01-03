@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="fxg-snapshots" />
+      <option name="name" value="fxg-snapshots" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/repository/fxg-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-release" />
+      <option name="name" value="nexus-release" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/content/repositories/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/repository/maven-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-cloud-azure" />
+      <option name="name" value="Azure" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/repository/maven-central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SEFS-6270-releases" />
+      <option name="name" value="SEFS-6270-releases" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/repositories/SEFS-6270-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshot" />
+      <option name="name" value="nexus-snapshot" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/content/repositories/snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fedex-jms" />
+      <option name="name" value="FedEx JMS" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/content/repositories/3535157-FedexJmsDecorator" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SEFS-6270-releases-check" />
+      <option name="name" value="SEFS-6270-releases-check" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/content/repositories/SEFS-6270-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fxg-releases" />
+      <option name="name" value="fxg-releases" />
+      <option name="url" value="https://nexus.prod.cloud.fedex.com:8443/nexus/repository/fxg-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cdm" />
+      <option name="name" value="cdm" />
+      <option name="url" value="https://pkgs.dev.azure.com/fdx-strat-pgm/mercury/_packaging/cdm/maven/v1" />
+    </remote-repository>
+  </component>
+</project>
